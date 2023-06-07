@@ -1,0 +1,11 @@
+1 - Coloacr o svg como button
+2 - Adicionar o onclick="menuShow()"
+3 - Criar uma class .open {display: block;}
+4 - function menuShow() {
+    let menuMobile = document.querySelector('.mobile-menu');
+    if (menuMobile.classList.contains('open')) { // Se ele ja estiver aberto 
+        menuMobile.classList.remove('open'); // Remova
+    } else { // Caso contrario
+        menuMobile.classList.add('open'); // add = Abra
+    }
+}

@@ -12,7 +12,7 @@ The designs were created to the following widths:
 ### Primary
 
 $Soft red: hsl(7, 99%, 70%);
-$Yellow: hsl(51, 100%, 49%);
+$yellow: hsl(51, 100%, 49%);
 $darkcyan: hsl(167, 40%, 24%);
 $darkblue: hsl(198, 62%, 26%);
 $cyan: hsl(168, 34%, 41%);
